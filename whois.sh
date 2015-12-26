@@ -1,6 +1,6 @@
 #!/bin/bash
-# This script is created to have a very quick "whois" look based and it will
-# return 4 strings. Feel free to change these strings
+# This script is created to have a very quick "whois" look based on your input
+# and it will return 4 strings. Feel free to change these strings
 # Please note: don't use this too often otherwise you could get banned
 # from the WhoIs server termporarily
 
